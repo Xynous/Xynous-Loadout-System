@@ -22,7 +22,7 @@ Instructions to setup:
 
 2. Execute and initilize the script using the mission pbo init file like so: execVM "Path\To\Xynous_Loadout_System.sqf";
 
-3. Edit the the item classnames to suit your players loadout needs and add the players UID to either the Tier1Loadout, Tier2Loadout, Tier3Loadout
+3. Edit the the item classnames to suit your players loadout needs and add the players UID to either the Tier1Loadout, Tier2Loadout or Tier3Loadout
 
 4. Players should now have their loadout class on respawn.
 
