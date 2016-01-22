@@ -10,6 +10,7 @@ Author:Developer: Xynous
 ///////////////////////////////////////
 
 Notes:
+
 1. Please do not remove my credits as I have worked on this to get a functional loadout system for arma 3 servers.
 
 2. This is a old script file I created when I was developing for the Arma community, you may use this code for your needs.
