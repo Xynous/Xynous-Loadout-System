@@ -14,6 +14,4 @@ Xynous Loadout System is a Arma 3 SQF script file which will give players custom
 1. This is a old script file I created when I was developing for the Arma community, you may use this code for your needs.
 
 # Author/Credits
-Ashleigh Day - (Xynous)
-
-Any usage of my project ideas or source code, please give the correct credits and references.
+Mr. Ashleigh Day
